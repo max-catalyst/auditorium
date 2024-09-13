@@ -565,8 +565,8 @@
                  "type":"area",
                  "visible":true,
                  "width":89.1400488043993,
-                 "x":151.304835839119,
-                 "y":707.645180417918
+                 "x":187.941756861398,
+                 "y":702.866451588925
                 }, 
                 {
                  "height":84.5935437392795,
@@ -743,7 +743,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Auditorium"
+         "value":"Office"
         }, 
         {
          "name":"script",
