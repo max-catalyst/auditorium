@@ -134,5 +134,7 @@ WA.onInit().then(async () => {
         }
     });
   });
+
+WA.controls.disableRoomList();
   
 export {};
