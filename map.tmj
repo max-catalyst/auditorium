@@ -401,9 +401,9 @@
                     0, 0, 0, 33212, 0, 0, 0, 0, 0, 0, 0, 10273, 10273, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33212, 0, 0, 0,
                     0, 0, 0, 33213, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33213, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 15277, 0, 15277, 0, 15277, 0, 15277, 0, 0, 0, 0, 15277, 0, 15277, 0, 15277, 0, 15277, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 15277, 0, 15277, 0, 15277, 0, 15277, 0, 0, 0, 0, 15277, 0, 15277, 0, 15277, 0, 15277, 0, 36938, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31795, 31795, 31795, 0, 0, 0, 0, 31434, 31434, 31434, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31795, 31795, 31795, 0, 0, 0, 0, 31434, 31434, 31434, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31795, 31795, 31795, 0, 0, 0, 0, 31434, 31434, 31434, 0, 0, 0, 0, 0, 36938, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36954, 0, 0, 0,
                     0, 0, 0, 36938, 0, 0, 0, 0, 0, 15277, 0, 15277, 0, 15277, 0, 15277, 0, 0, 0, 0, 15277, 0, 15277, 0, 15277, 0, 15277, 0, 0, 0, 0, 0,
                     0, 0, 0, 36954, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -416,9 +416,9 @@
                     0, 0, 0, 36499, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 36515, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36100, 36101, 36102, 36103, 0, 0, 36100, 36101, 36102, 36103, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36116, 36117, 36118, 36119, 0, 0, 36116, 36117, 36118, 36119, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36132, 36133, 36134, 36135, 0, 0, 36132, 36133, 36134, 36135, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 33212, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33212, 0, 0, 0,
                     0, 0, 0, 33213, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33213, 0, 0, 0,
@@ -600,6 +600,42 @@
                  "width":87.424948542024,
                  "x":791.049103773585,
                  "y":701.607173241852
+                }, 
+                {
+                 "height":38.6157133559612,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":25,
+                     "text":"A",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":53.212691746853,
+                 "x":454.181896399031,
+                 "y":384.699261228828
+                }, 
+                {
+                 "height":38.6157,
+                 "id":30,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":25,
+                     "text":"B",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":53.2127,
+                 "x":676.616480027022,
+                 "y":383.381137016411
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -620,8 +656,8 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10257, 10257, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7892, 0, 0, 0, 0, 0, 0, 7892, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7908, 0, 0, 0, 0, 0, 0, 7908, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -722,7 +758,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":28,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -751,13 +787,13 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.11.0",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/auditorium\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -780,7 +816,7 @@
         {
          "columns":12,
          "firstgid":13,
-         "image":"..\/auditorium\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -793,7 +829,7 @@
         {
          "columns":25,
          "firstgid":109,
-         "image":"..\/auditorium\/tilesets\/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -806,7 +842,7 @@
         {
          "columns":16,
          "firstgid":959,
-         "image":"..\/auditorium\/tilesets\/Modern_Office_32x32.png",
+         "image":"tilesets\/Modern_Office_32x32.png",
          "imageheight":1696,
          "imagewidth":512,
          "margin":0,
@@ -819,7 +855,7 @@
         {
          "columns":19,
          "firstgid":1807,
-         "image":"..\/auditorium\/tilesets\/Serene_Village_32x32.png",
+         "image":"tilesets\/Serene_Village_32x32.png",
          "imageheight":1440,
          "imagewidth":608,
          "margin":0,
@@ -832,7 +868,7 @@
         {
          "columns":16,
          "firstgid":2662,
-         "image":"..\/auditorium\/tilesets\/2_LivingRoom_32x32.png",
+         "image":"tilesets\/2_LivingRoom_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -845,7 +881,7 @@
         {
          "columns":16,
          "firstgid":3382,
-         "image":"..\/auditorium\/tilesets\/3_Bathroom_32x32.png",
+         "image":"tilesets\/3_Bathroom_32x32.png",
          "imageheight":1792,
          "imagewidth":512,
          "margin":0,
@@ -858,7 +894,7 @@
         {
          "columns":16,
          "firstgid":4278,
-         "image":"..\/auditorium\/tilesets\/4_Bedroom_32x32.png",
+         "image":"tilesets\/4_Bedroom_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
          "margin":0,
@@ -871,7 +907,7 @@
         {
          "columns":16,
          "firstgid":5990,
-         "image":"..\/auditorium\/tilesets\/5_Classroom_and_library_32x32.png",
+         "image":"tilesets\/5_Classroom_and_library_32x32.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -884,7 +920,7 @@
         {
          "columns":16,
          "firstgid":6534,
-         "image":"..\/auditorium\/tilesets\/6_Music_and_sport_32x32.png",
+         "image":"tilesets\/6_Music_and_sport_32x32.png",
          "imageheight":1536,
          "imagewidth":512,
          "margin":0,
@@ -897,7 +933,7 @@
         {
          "columns":16,
          "firstgid":7302,
-         "image":"..\/auditorium\/tilesets\/7_Art_32x32.png",
+         "image":"tilesets\/7_Art_32x32.png",
          "imageheight":224,
          "imagewidth":512,
          "margin":0,
@@ -910,7 +946,7 @@
         {
          "columns":16,
          "firstgid":7414,
-         "image":"..\/auditorium\/tilesets\/8_Gym_32x32.png",
+         "image":"tilesets\/8_Gym_32x32.png",
          "imageheight":1056,
          "imagewidth":512,
          "margin":0,
@@ -923,7 +959,7 @@
         {
          "columns":16,
          "firstgid":7942,
-         "image":"..\/auditorium\/tilesets\/9_Fishing_32x32.png",
+         "image":"tilesets\/9_Fishing_32x32.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -936,7 +972,7 @@
         {
          "columns":12,
          "firstgid":8374,
-         "image":"..\/auditorium\/tilesets\/10_Birthday_party_32x32.png",
+         "image":"tilesets\/10_Birthday_party_32x32.png",
          "imageheight":224,
          "imagewidth":384,
          "margin":0,
@@ -949,7 +985,7 @@
         {
          "columns":16,
          "firstgid":8458,
-         "image":"..\/auditorium\/tilesets\/11_Halloween_32x32.png",
+         "image":"tilesets\/11_Halloween_32x32.png",
          "imageheight":1952,
          "imagewidth":512,
          "margin":0,
@@ -962,7 +998,7 @@
         {
          "columns":16,
          "firstgid":9434,
-         "image":"..\/auditorium\/tilesets\/12_Kitchen_32x32.png",
+         "image":"tilesets\/12_Kitchen_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -975,7 +1011,7 @@
         {
          "columns":16,
          "firstgid":10218,
-         "image":"..\/auditorium\/tilesets\/13_Conference_Hall_32x32.png",
+         "image":"tilesets\/13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -988,7 +1024,7 @@
         {
          "columns":16,
          "firstgid":10410,
-         "image":"..\/auditorium\/tilesets\/14_Basement_32x32.png",
+         "image":"tilesets\/14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -1001,7 +1037,7 @@
         {
          "columns":16,
          "firstgid":11210,
-         "image":"..\/auditorium\/tilesets\/15_Christmas_32x32.png",
+         "image":"tilesets\/15_Christmas_32x32.png",
          "imageheight":544,
          "imagewidth":512,
          "margin":0,
@@ -1014,7 +1050,7 @@
         {
          "columns":16,
          "firstgid":11482,
-         "image":"..\/auditorium\/tilesets\/16_Grocery_store_32x32.png",
+         "image":"tilesets\/16_Grocery_store_32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -1027,7 +1063,7 @@
         {
          "columns":16,
          "firstgid":12730,
-         "image":"..\/auditorium\/tilesets\/17_Visibile_Upstairs_System_32x32.png",
+         "image":"tilesets\/17_Visibile_Upstairs_System_32x32.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -1040,7 +1076,7 @@
         {
          "columns":16,
          "firstgid":13162,
-         "image":"..\/auditorium\/tilesets\/18_Jail_32x32.png",
+         "image":"tilesets\/18_Jail_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -1053,7 +1089,7 @@
         {
          "columns":16,
          "firstgid":13882,
-         "image":"..\/auditorium\/tilesets\/19_Hospital_32x32.png",
+         "image":"tilesets\/19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -1066,7 +1102,7 @@
         {
          "columns":16,
          "firstgid":15642,
-         "image":"..\/auditorium\/tilesets\/20_Japanese_interiors_32x32.png",
+         "image":"tilesets\/20_Japanese_interiors_32x32.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -1079,7 +1115,7 @@
         {
          "columns":16,
          "firstgid":16154,
-         "image":"..\/auditorium\/tilesets\/21_Clothing_Store_32x32.png",
+         "image":"tilesets\/21_Clothing_Store_32x32.png",
          "imageheight":2144,
          "imagewidth":512,
          "margin":0,
@@ -1092,7 +1128,7 @@
         {
          "columns":16,
          "firstgid":17226,
-         "image":"..\/auditorium\/tilesets\/22_Museum_32x32.png",
+         "image":"tilesets\/22_Museum_32x32.png",
          "imageheight":3904,
          "imagewidth":512,
          "margin":0,
@@ -1105,7 +1141,7 @@
         {
          "columns":16,
          "firstgid":19178,
-         "image":"..\/auditorium\/tilesets\/23_Television_and_Film_Studio_32x32.png",
+         "image":"tilesets\/23_Television_and_Film_Studio_32x32.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -1118,7 +1154,7 @@
         {
          "columns":16,
          "firstgid":19402,
-         "image":"..\/auditorium\/tilesets\/24_Ice_Cream_Shop_32x32.png",
+         "image":"tilesets\/24_Ice_Cream_Shop_32x32.png",
          "imageheight":544,
          "imagewidth":512,
          "margin":0,
@@ -1131,7 +1167,7 @@
         {
          "columns":16,
          "firstgid":19674,
-         "image":"..\/auditorium\/tilesets\/25_Shooting_Range_32x32.png",
+         "image":"tilesets\/25_Shooting_Range_32x32.png",
          "imageheight":160,
          "imagewidth":512,
          "margin":0,
@@ -1144,7 +1180,7 @@
         {
          "columns":16,
          "firstgid":19754,
-         "image":"..\/auditorium\/tilesets\/26_Condominium_32x32.png",
+         "image":"tilesets\/26_Condominium_32x32.png",
          "imageheight":608,
          "imagewidth":512,
          "margin":0,
@@ -1157,7 +1193,7 @@
         {
          "columns":2,
          "firstgid":20058,
-         "image":"..\/auditorium\/tilesets\/grand library, empty bookshelf A v01.png",
+         "image":"tilesets\/grand library, empty bookshelf A v01.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1170,7 +1206,7 @@
         {
          "columns":2,
          "firstgid":20062,
-         "image":"..\/auditorium\/tilesets\/grand library, empty bookshelf A v02.png",
+         "image":"tilesets\/grand library, empty bookshelf A v02.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1184,7 +1220,7 @@
         {
          "columns":2,
          "firstgid":20066,
-         "image":"..\/auditorium\/tilesets\/grand library, empty bookshelf B v01.png",
+         "image":"tilesets\/grand library, empty bookshelf B v01.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1197,7 +1233,7 @@
         {
          "columns":2,
          "firstgid":20070,
-         "image":"..\/auditorium\/tilesets\/grand library, empty bookshelf B v02.png",
+         "image":"tilesets\/grand library, empty bookshelf B v02.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1210,7 +1246,7 @@
         {
          "columns":24,
          "firstgid":20074,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_3d_walls_32x32.png",
+         "image":"tilesets\/Room_Builder_3d_walls_32x32.png",
          "imageheight":1760,
          "imagewidth":768,
          "margin":0,
@@ -1223,7 +1259,7 @@
         {
          "columns":76,
          "firstgid":21394,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_32x32.png",
+         "image":"tilesets\/Room_Builder_32x32.png",
          "imageheight":3488,
          "imagewidth":2432,
          "margin":0,
@@ -1236,7 +1272,7 @@
         {
          "columns":10,
          "firstgid":29678,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_Arched_Entryways_32x32.png",
+         "image":"tilesets\/Room_Builder_Arched_Entryways_32x32.png",
          "imageheight":1040,
          "imagewidth":320,
          "margin":0,
@@ -1249,7 +1285,7 @@
         {
          "columns":6,
          "firstgid":29998,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_baseboards_32x32.png",
+         "image":"tilesets\/Room_Builder_baseboards_32x32.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -1262,7 +1298,7 @@
         {
          "columns":45,
          "firstgid":30034,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_borders_32x32.png",
+         "image":"tilesets\/Room_Builder_borders_32x32.png",
          "imageheight":320,
          "imagewidth":1440,
          "margin":0,
@@ -1275,7 +1311,7 @@
         {
          "columns":7,
          "firstgid":30484,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_Floor_Connectors_32x32.png",
+         "image":"tilesets\/Room_Builder_Floor_Connectors_32x32.png",
          "imageheight":1152,
          "imagewidth":224,
          "margin":0,
@@ -1288,7 +1324,7 @@
         {
          "columns":42,
          "firstgid":30736,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_Floor_Paths_32x32.png",
+         "image":"tilesets\/Room_Builder_Floor_Paths_32x32.png",
          "imageheight":384,
          "imagewidth":1344,
          "margin":0,
@@ -1301,7 +1337,7 @@
         {
          "columns":16,
          "firstgid":31240,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_Floor_Shadows_32x32.png",
+         "image":"tilesets\/Room_Builder_Floor_Shadows_32x32.png",
          "imageheight":160,
          "imagewidth":512,
          "margin":0,
@@ -1314,7 +1350,7 @@
         {
          "columns":15,
          "firstgid":31320,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_Floors_32x32.png",
+         "image":"tilesets\/Room_Builder_Floors_32x32.png",
          "imageheight":1280,
          "imagewidth":480,
          "margin":0,
@@ -1327,7 +1363,7 @@
         {
          "columns":32,
          "firstgid":31920,
-         "image":"..\/auditorium\/tilesets\/Room_Builder_Walls_32x32.png",
+         "image":"tilesets\/Room_Builder_Walls_32x32.png",
          "imageheight":1280,
          "imagewidth":1024,
          "margin":0,
@@ -1340,7 +1376,7 @@
         {
          "columns":2,
          "firstgid":33200,
-         "image":"..\/auditorium\/tilesets\/royal 32x32 v01.png",
+         "image":"tilesets\/royal 32x32 v01.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -1353,7 +1389,7 @@
         {
          "columns":2,
          "firstgid":33206,
-         "image":"..\/auditorium\/tilesets\/royal 32x32 v02.png",
+         "image":"tilesets\/royal 32x32 v02.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -1366,7 +1402,7 @@
         {
          "columns":1,
          "firstgid":33212,
-         "image":"..\/auditorium\/tilesets\/royal big pot 32x64 v01.png",
+         "image":"tilesets\/royal big pot 32x64 v01.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -1379,7 +1415,7 @@
         {
          "columns":1,
          "firstgid":33214,
-         "image":"..\/auditorium\/tilesets\/royal big pot 32x64 v02.png",
+         "image":"tilesets\/royal big pot 32x64 v02.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -1392,7 +1428,7 @@
         {
          "columns":40,
          "firstgid":33216,
-         "image":"..\/auditorium\/tilesets\/Tilesets_32x32.png",
+         "image":"tilesets\/Tilesets_32x32.png",
          "imageheight":2240,
          "imagewidth":1280,
          "margin":0,
@@ -1405,7 +1441,7 @@
         {
          "columns":2,
          "firstgid":36016,
-         "image":"..\/auditorium\/tilesets\/WCT-Catalyst-Symbol-Dark-Teal-1080 copy 2.png",
+         "image":"tilesets\/WCT-Catalyst-Symbol-Dark-Teal-1080 copy 2.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1418,7 +1454,7 @@
         {
          "columns":16,
          "firstgid":36020,
-         "image":"..\/auditorium\/tilesets\/1_Generic_Shadowless32x32.png",
+         "image":"tilesets\/1_Generic_Shadowless32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -1431,7 +1467,7 @@
         {
          "columns":390,
          "firstgid":37268,
-         "image":"..\/auditorium\/tilesets\/floatybot sprite.png",
+         "image":"tilesets\/floatybot sprite.png",
          "imageheight":256,
          "imagewidth":12480,
          "margin":0,
