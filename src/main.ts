@@ -43,6 +43,9 @@ function closePopup(){
     }
 }
 WA.onInit().then(async () => {
+	WA.controls.disableRoomList();
+	WA.controls.disableInviteButton();
+
     // Check if the player has the "admin" tag
     const playerName = WA.player.name;
     const wokaUrl = await WA.player.getWokaPicture();
@@ -135,8 +138,6 @@ WA.onInit().then(async () => {
     });
   });
 
-WA.controls.disableRoomList();
-WA.controls.disableInviteButton();
 
   
 export {};
